@@ -1,0 +1,13 @@
+File size: 13737 bytes
+Number of ASCII values: 3839
+Total values: 7500
+Sum of values: 19972812
+Leading ones tally:
+  0 leading ones: 3839 bytes
+  1 leading ones: 0 bytes
+  2 leading ones: 1085 bytes
+  3 leading ones: 2576 bytes
+  4 leading ones: 0 bytes
+  5 leading ones: 0 bytes
+  6 leading ones: 0 bytes
+  7 leading ones: 0 bytes

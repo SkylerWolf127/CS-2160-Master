@@ -1,0 +1,3 @@
+/home/skwolf/CLionProjects/PJ02_UTF8Reader/cmake-build-debug/CMakeFiles/PJ02_UTF8Reader.dir
+/home/skwolf/CLionProjects/PJ02_UTF8Reader/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/skwolf/CLionProjects/PJ02_UTF8Reader/cmake-build-debug/CMakeFiles/rebuild_cache.dir
